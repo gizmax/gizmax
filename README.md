@@ -22,7 +22,7 @@ After WPP, we founded [wiseguys.co](https://wiseguys.co) — a strategic consult
 - Political campaign strategy — message testing, voter segmentation, real-time sentiment tracking
 - Brand & PR for C-suite leaders — crisis comms, narrative building, media positioning
 
-**How I work:** Spec like a strategist, build like an engineer. Claude Code, Xcode, ship.
+**How I work:** Spec like a strategist, build like an engineer. 
 
 `Swift` `React` `TypeScript` `Laravel` `Python` `FastAPI`
 
